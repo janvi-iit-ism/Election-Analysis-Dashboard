@@ -1,0 +1,544 @@
+,#,PC Name,No,Type,State,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %
+0,1,Adilabad,1.0,ST,Telangana,Godam Nagesh,Telangana Rashtra Samithi,1386233.0,1045839.0,75.4,171290.0,16.4
+1,2,Agra,18.0,SC,Uttar Pradesh,Dr. Ram Shankar Katheria,Bharatiya Janta Party,1814739.0,1070400.0,59.0,300263.0,28.1
+2,3,Ahmadnagar,37.0,GEN,Maharashtra,Gandhi Dilipkumar Mansukhlal,Bharatiya Janta Party,1699408.0,1062318.0,62.5,209122.0,19.7
+3,4,Ahmedabad East,7.0,GEN,Gujarat,Paresh Rawal,Bharatiya Janta Party,1601832.0,985525.0,61.5,326633.0,33.1
+4,5,Ahmedabad West,8.0,SC,Gujarat,Dr. Kirit P Solanki,Bharatiya Janta Party,1534400.0,964609.0,62.9,320311.0,33.2
+5,6,Ajmer,13.0,GEN,Rajasthan,Sanwar Lal Jat,Bharatiya Janta Party,1683292.0,1156314.0,68.7,171983.0,14.9
+6,7,Akbarpur,44.0,GEN,Uttar Pradesh,Devendra Singh @ Bhole Singh,Bharatiya Janta Party,1768623.0,971375.0,54.9,278997.0,28.7
+7,8,Akola,6.0,GEN,Maharashtra,Dhotre Sanjay Shamrao,Bharatiya Janta Party,1646463.0,978491.0,59.4,203116.0,20.8
+8,9,Alappuzha,15.0,GEN,Kerala,K C Venugopal,Indian National Congress,1271324.0,997464.0,78.5,19407.0,1.9
+9,10,Alathur,9.0,SC,Kerala,P.K.Biju,Communist Party Of India (Marxist),1216351.0,927228.0,76.2,37312.0,4.0
+10,11,Aligarh,15.0,GEN,Uttar Pradesh,Satish Kumar,Bharatiya Janta Party,1793126.0,1064357.0,59.4,286736.0,26.9
+11,12,Alipurduars,2.0,ST,West Bengal,Dasrath Tirkey,All India Trinamool Congress,1470911.0,1223566.0,83.2,21397.0,1.7
+12,13,Allahabad,52.0,GEN,Uttar Pradesh,Shyama Charan Gupta,Bharatiya Janta Party,1666569.0,891582.0,53.5,62009.0,7.0
+13,14,Almora,3.0,SC,Uttarakhand,Ajay Tamta,Bharatiya Janta Party,1254328.0,656525.0,52.3,95690.0,14.6
+14,15,Alwar,8.0,GEN,Rajasthan,Chand Nath,Bharatiya Janta Party,1628067.0,1062305.0,65.3,283895.0,26.7
+15,16,Amalapuram,1.0,SC,Andhra Pradesh,Dr Pandula Ravindra Babu,Telugu Desam,1357866.0,1120927.0,82.6,120576.0,10.8
+16,17,Ambala,1.0,SC,Haryana,Rattan Lal Kataria,Bharatiya Janta Party,1692227.0,1218995.0,72.0,340074.0,27.9
+17,18,Ambedkar Nagar,55.0,GEN,Uttar Pradesh,Hari Om Pandey,Bharatiya Janta Party,1718774.0,1034404.0,60.2,139429.0,13.5
+18,19,Amethi,37.0,GEN,Uttar Pradesh,Rahul Gandhi,Indian National Congress,1669843.0,874625.0,52.4,107903.0,12.3
+19,20,Amravati,7.0,SC,Maharashtra,Adsul Anandrao Vithoba,Shiv Sena,1611365.0,1004061.0,62.3,137932.0,13.7
+20,21,Amreli,14.0,GEN,Gujarat,Kachhadiya Naranbhai Bhikhabhai,Bharatiya Janta Party,1486286.0,808816.0,54.4,156232.0,19.3
+21,22,Amritsar,2.0,GEN,Punjab,Captain Amarinder Singh,Indian National Congress,1477262.0,1007196.0,68.2,102770.0,10.2
+22,23,Amroha,9.0,GEN,Uttar Pradesh,Kanwar Singh Tanwar,Bharatiya Janta Party,1544242.0,1095860.0,71.0,158214.0,14.4
+23,24,Anakapalli,2.0,GEN,Andhra Pradesh,Muttamsetti Srinivasa Rao (AVANTHI),Telugu Desam,1401474.0,1148072.0,81.9,47932.0,4.2
+24,25,Anand,16.0,GEN,Gujarat,Dilip Patel,Bharatiya Janta Party,1496859.0,970894.0,64.9,63426.0,6.5
+25,26,Anandpur Sahib,6.0,GEN,Punjab,Prem Singh Chandumajra,Shiromani Akali Dal,1564721.0,1086563.0,69.4,23697.0,2.2
+26,27,Anantapur,3.0,GEN,Andhra Pradesh,J.C. Divakar Reddi,Telugu Desam,1536912.0,1205054.0,78.4,61269.0,5.1
+27,28,Anantnag,3.0,GEN,Jammu & Kashmir,Mehbooba Mufti,Jammu & Kashmir Peoples Democratic Party,1301023.0,375279.0,28.8,65417.0,17.4
+28,29,Andaman And Nicobar Islands,1.0,GEN,Andaman & Nicobar,Bishnu Pada Ray,Bharatiya Janta Party,269360.0,190328.0,70.7,7812.0,4.1
+29,30,Aonla,24.0,GEN,Uttar Pradesh,Dharmendra Kumar,Bharatiya Janta Party,1653577.0,995641.0,60.2,138429.0,13.9
+30,31,Arakkonam,7.0,GEN,Tamil Nadu,"Hari, G.",All India Anna Dravida Munnetra Kazhagam,1401545.0,1089052.0,77.7,240766.0,22.1
+31,32,Arambagh,29.0,SC,West Bengal,Aparupa Poddar (AFRIN ALI),All India Trinamool Congress,1600293.0,1361934.0,85.1,346845.0,25.5
+32,33,Arani,12.0,GEN,Tamil Nadu,V.Elumalai,All India Anna Dravida Munnetra Kazhagam,1369668.0,1096046.0,80.0,243844.0,22.2
+33,34,Araria,9.0,GEN,Bihar,Tasleem Uddin,Rashtriya Janata Dal,1587348.0,975811.0,61.5,146504.0,15.0
+34,35,Arrah,32.0,GEN,Bihar,Raj Kumar Singh,Bharatiya Janta Party,1832332.0,893213.0,48.8,135870.0,15.2
+35,36,Aruku,4.0,ST,Andhra Pradesh,Kothapalli Geetha,Yuvajana Sramika Rythu Congress Party,1272724.0,909614.0,71.5,91398.0,10.0
+36,37,Arunachal East,2.0,GEN,Arunachal Pradesh,Ninong Ering,Indian National Congress,312872.0,261291.0,83.5,12478.0,4.8
+37,38,Arunachal West,1.0,GEN,Arunachal Pradesh,Kiren Rijiju,Bharatiya Janta Party,446515.0,335665.0,75.2,41738.0,12.4
+38,39,Asansol,40.0,GEN,West Bengal,Babul Supriya Baral (BABUL SUPRIYO),Bharatiya Janta Party,1469684.0,1142395.0,77.7,70480.0,6.2
+39,40,Aska,19.0,GEN,Orissa,Ladu Kishore Swain,Biju Janata Dal,1408780.0,896281.0,63.6,311997.0,34.8
+40,41,Attingal,19.0,GEN,Kerala,Dr.A .Sampath,Communist Party Of India (Marxist),1251398.0,859350.0,68.7,69378.0,8.1
+41,42,Aurangabad,19.0,GEN,Maharashtra,Chandrakant Bhaurao Khaire,Shiv Sena,1589393.0,982933.0,61.8,162000.0,16.5
+42,43,Aurangabad,37.0,GEN,Bihar,Sushil Kumar Singh,Bharatiya Janta Party,1536153.0,786274.0,51.2,66347.0,8.4
+43,44,Autonomous District,3.0,ST,Assam,Biren Singh Engti,Indian National Congress,701890.0,543280.0,77.4,24095.0,4.4
+44,45,Azamgarh,69.0,GEN,Uttar Pradesh,Mulayam Singh Yadav,Samajwadi Party,1703222.0,960218.0,56.4,63204.0,6.6
+45,46,Badaun,23.0,GEN,Uttar Pradesh,Dharmendra Yadav,Samajwadi Party,1769145.0,1027594.0,58.1,166347.0,16.2
+46,47,Bagalkot,3.0,GEN,Karnataka,Gaddigoudar Parvtagouda Chandanagouda,Bharatiya Janta Party,1568620.0,1079310.0,68.8,116560.0,10.8
+47,48,Baghpat,11.0,GEN,Uttar Pradesh,Dr. Satya Pal Singh,Bharatiya Janta Party,1505175.0,1004263.0,66.7,209866.0,20.9
+48,49,Baharampur,10.0,GEN,West Bengal,Adhir Ranjan Chowdhury,Indian National Congress,1453783.0,1154587.0,79.4,356567.0,30.9
+49,50,Bahraich,56.0,SC,Uttar Pradesh,Sadhvi Savitri Bai Foole,Bharatiya Janta Party,1638645.0,934263.0,57.0,95645.0,10.2
+50,51,Balaghat,15.0,GEN,Madhya Pradesh,Bodhsingh Bhagat,Bharatiya Janta Party,1629769.0,1113364.0,68.3,96041.0,8.6
+51,52,Balasore,6.0,GEN,Orissa,Rabindra Kumar Jena,Biju Janata Dal,1366218.0,1049450.0,76.8,141825.0,13.5
+52,53,Ballia,72.0,GEN,Uttar Pradesh,Bharat Singh,Bharatiya Janta Party,1768271.0,942211.0,53.3,139434.0,14.8
+53,54,Balurghat,6.0,GEN,West Bengal,Arpita Ghosh,All India Trinamool Congress,1254497.0,1063053.0,84.7,106964.0,10.1
+54,55,Banaskantha,2.0,GEN,Gujarat,Chaudhary Haribhai Parthibhai,Bharatiya Janta Party,1515711.0,886634.0,58.5,202334.0,22.8
+55,56,Banda,48.0,GEN,Uttar Pradesh,Bhairon Prasad Mishra,Bharatiya Janta Party,1601917.0,858326.0,53.6,115788.0,13.5
+56,57,Bangalore Central,25.0,GEN,Karnataka,P.C. Mohan,Bharatiya Janta Party,1931663.0,1074589.0,55.6,137500.0,12.8
+57,58,Bangalore North,24.0,GEN,Karnataka,D.V Sadananda Gowda,Bharatiya Janta Party,2401472.0,1356718.0,56.5,229764.0,16.9
+58,59,Bangalore Rural,23.0,GEN,Karnataka,D K Suresh,Indian National Congress,2190397.0,1455244.0,66.4,231480.0,15.9
+59,60,Bangalore South,26.0,GEN,Karnataka,Ananth Kumar,Bharatiya Janta Party,1999882.0,1113726.0,55.7,228575.0,20.5
+60,61,Bangaon,14.0,SC,West Bengal,Kapil Krishna Thakur,All India Trinamool Congress,1540713.0,1283688.0,83.3,146601.0,11.4
+61,62,Banka,27.0,GEN,Bihar,Jai Prakash Narayan Yadav,Rashtriya Janata Dal,1549456.0,899353.0,58.0,10144.0,1.1
+62,63,Bankura,36.0,GEN,West Bengal,Sreemati Dev Varma (MOON MOON SEN),All India Trinamool Congress,1503812.0,1236319.0,82.2,98506.0,8.0
+63,64,Bansgaon,67.0,SC,Uttar Pradesh,Kamlesh Paswan,Bharatiya Janta Party,1760110.0,877877.0,49.9,189516.0,21.6
+64,65,Banswara,20.0,ST,Rajasthan,Manshankar Ninama,Bharatiya Janta Party,1692502.0,1171188.0,69.2,91916.0,7.8
+65,66,Bapatla,5.0,SC,Andhra Pradesh,Malyadri Sriram,Telugu Desam,1392965.0,1184634.0,85.0,32754.0,2.8
+66,67,Bara Banki,53.0,SC,Uttar Pradesh,Priyanka Singh Rawat,Bharatiya Janta Party,1721282.0,1068168.0,62.1,211878.0,19.8
+67,68,Baramati,35.0,GEN,Maharashtra,Supriya Sule,Nationalist Congress Party,1813543.0,1066556.0,58.8,69719.0,6.5
+68,69,Baramulla,1.0,GEN,Jammu & Kashmir,Muzaffar Hussain Baig,Jammu & Kashmir Peoples Democratic Party,1190745.0,465992.0,39.1,29219.0,6.3
+69,70,Barasat,17.0,GEN,West Bengal,Dr. Kakali Ghoshdostidar,All India Trinamool Congress,1512792.0,1269331.0,83.9,173141.0,13.6
+70,71,Bardhaman Purba,38.0,SC,West Bengal,Sunil Kumar Mondal,All India Trinamool Congress,1532244.0,1320922.0,86.2,114479.0,8.7
+71,72,Bardoli,23.0,ST,Gujarat,Vasava Parbhubhai Nagarbhai,Bharatiya Janta Party,1614106.0,1206179.0,74.7,123884.0,10.3
+72,73,Bareilly,25.0,GEN,Uttar Pradesh,Santosh Kumar Gangwar,Bharatiya Janta Party,1664081.0,1017891.0,61.2,240685.0,23.6
+73,74,Bargarh,1.0,GEN,Orissa,Prabhas Kumar Singh,Biju Janata Dal,1430717.0,1123301.0,78.5,11178.0,1.0
+74,75,Barmer,17.0,GEN,Rajasthan,Col. Sona Ram,Bharatiya Janta Party,1677582.0,1219119.0,72.7,87461.0,7.2
+75,76,Barpeta,6.0,GEN,Assam,Siraj Uddin Ajmal,All India United Democratic Front,1430175.0,1205863.0,84.3,42341.0,3.5
+76,77,Barrackpore,15.0,GEN,West Bengal,Dinesh Trivedi,All India Trinamool Congress,1287222.0,1051130.0,81.7,206773.0,19.7
+77,78,Basirhat,18.0,GEN,West Bengal,Idris Ali,All India Trinamool Congress,1490596.0,1273771.0,85.5,109659.0,8.6
+78,79,Bastar,10.0,ST,Chhattisgarh,Dinesh Kashyap,Bharatiya Janta Party,1298059.0,769913.0,59.3,124359.0,16.2
+79,80,Basti,61.0,GEN,Uttar Pradesh,Harish Chandra Alias Harish Dwivedi,Bharatiya Janta Party,1847613.0,1048534.0,56.8,33562.0,3.2
+80,81,Beed,39.0,GEN,Maharashtra,Munde Gopinathrao Pandurang,Bharatiya Janta Party,1792650.0,1232202.0,68.7,136454.0,11.1
+81,82,Begusarai,24.0,GEN,Bihar,Bhola Singh,Bharatiya Janta Party,1778759.0,1077855.0,60.6,58335.0,5.4
+82,83,Belgaum,2.0,GEN,Karnataka,Angadi Suresh Channabasappa,Bharatiya Janta Party,1581017.0,1078547.0,68.2,75860.0,7.0
+83,84,Bellary,9.0,ST,Karnataka,B. Sreeramulu,Bharatiya Janta Party,1487945.0,1045772.0,70.3,85144.0,8.1
+84,85,Berhampur,20.0,GEN,Orissa,Sidhant Mohapatra,Biju Janata Dal,1334268.0,905362.0,67.9,127720.0,14.1
+85,86,Betul,29.0,ST,Madhya Pradesh,Jyoti Dhurve,Bharatiya Janta Party,1607822.0,1047719.0,65.2,328614.0,31.4
+86,87,Bhadohi,78.0,GEN,Uttar Pradesh,Virendra Singh,Bharatiya Janta Party,1834598.0,981552.0,53.5,158039.0,16.1
+87,88,Bhadrak,7.0,SC,Orissa,Arjun Charan Sethi,Biju Janata Dal,1469498.0,1081339.0,73.6,179359.0,16.6
+88,89,Bhagalpur,26.0,GEN,Bihar,Shailesh Kumar Urph Bulo Mandal,Rashtriya Janata Dal,1685339.0,974016.0,57.8,9485.0,1.0
+89,90,Bhandara - Gondiya,11.0,GEN,Maharashtra,Nanabhau Falgunrao Patole,Bharatiya Janta Party,1656284.0,1197196.0,72.3,149254.0,12.5
+90,91,Bharatpur,9.0,SC,Rajasthan,Bahadur Singh,Bharatiya Janta Party,1686897.0,962432.0,57.1,245468.0,25.5
+91,92,Bharuch,22.0,GEN,Gujarat,Vasava Mansukhbhai Dhanjibhai,Bharatiya Janta Party,1417548.0,1060211.0,74.8,153273.0,14.5
+92,93,Bhatinda,11.0,GEN,Punjab,Harsimrat Kaur Badal,Shiromani Akali Dal,1525289.0,1176767.0,77.2,19395.0,1.6
+93,94,Bhavnagar,15.0,GEN,Gujarat,Dr. Bharatiben Dhirubhai Shiyal,Bharatiya Janta Party,1594531.0,917402.0,57.5,295488.0,32.2
+94,95,Bhilwara,23.0,GEN,Rajasthan,Subhash Baheria,Bharatiya Janta Party,1754877.0,1104090.0,62.9,246264.0,22.3
+95,96,Bhind,2.0,SC,Madhya Pradesh,Dr. Bhagirath Prasad,Bharatiya Janta Party,1598169.0,729084.0,45.6,159961.0,21.9
+96,97,Bhiwandi,23.0,GEN,Maharashtra,Kapil Moreshwar Patil,Bharatiya Janta Party,1696589.0,875605.0,51.6,109450.0,12.5
+97,98,Bhiwani-Mahendragarh,8.0,GEN,Haryana,Dharambir S/o Bhale Ram,Bharatiya Janta Party,1473912.0,1030431.0,69.9,129394.0,12.6
+98,99,Bhongir,14.0,GEN,Telangana,Dr. Boora Narsaiah Goud,Telangana Rashtra Samithi,1492251.0,1211943.0,81.2,30494.0,2.5
+99,100,Bhopal,19.0,GEN,Madhya Pradesh,Alok Sanjar,Bharatiya Janta Party,1956936.0,1130182.0,57.8,370696.0,32.8
+100,101,Bhubaneswar,18.0,GEN,Orissa,Prasanna Kumar Patasani,Biju Janata Dal,1527768.0,891822.0,58.4,189477.0,21.2
+101,102,Bidar,7.0,GEN,Karnataka,Bhagwanth Khuba,Bharatiya Janta Party,1600962.0,959384.0,59.9,92222.0,9.6
+102,103,Bijapur,4.0,SC,Karnataka,Ramesh Jigajinagi,Bharatiya Janta Party,1622635.0,966757.0,59.6,69819.0,7.2
+103,104,Bijnor,4.0,GEN,Uttar Pradesh,Kunwar Bhartendra,Bharatiya Janta Party,1562065.0,1060346.0,67.9,205774.0,19.4
+104,105,Bikaner,2.0,SC,Rajasthan,Arjun Ram Meghwal,Bharatiya Janta Party,1591068.0,929751.0,58.4,308079.0,33.1
+105,106,Bilaspur,5.0,GEN,Chhattisgarh,Lakhan Lal Sahu,Bharatiya Janta Party,1727325.0,1090457.0,63.1,176436.0,16.2
+106,107,Birbhum,42.0,GEN,West Bengal,Satabdi Roy,All India Trinamool Congress,1495108.0,1275819.0,85.3,67263.0,5.3
+107,108,Bishnupur,37.0,SC,West Bengal,Khan Saumitra,All India Trinamool Congress,1466921.0,1272070.0,86.7,149685.0,11.8
+108,109,Bolangir,10.0,GEN,Orissa,Kalikesh Narayan Singh Deo,Biju Janata Dal,1563025.0,1170405.0,74.9,104299.0,8.9
+109,110,Bolpur,41.0,SC,West Bengal,Anupam Hazra,All India Trinamool Congress,1538429.0,1304756.0,84.8,236112.0,18.1
+110,111,Bulandshahr,14.0,SC,Uttar Pradesh,Bhola Singh,Bharatiya Janta Party,1736447.0,1009710.0,58.2,421973.0,41.8
+111,112,Buldhana,5.0,GEN,Maharashtra,Jadhav Prataprao Ganpatrao,Shiv Sena,1596234.0,978626.0,61.3,159579.0,16.3
+112,113,Burdwan - Durgapur,39.0,GEN,West Bengal,Dr. Mamtaz Sanghamita,All India Trinamool Congress,1583498.0,1331242.0,84.1,107331.0,8.1
+113,114,Buxar,33.0,GEN,Bihar,Ashwini Kumar Choubey,Bharatiya Janta Party,1640567.0,888204.0,54.1,132338.0,14.9
+114,115,Chalakudy,11.0,GEN,Kerala,Innocent,Independent,1150491.0,884033.0,76.8,13884.0,1.6
+115,116,Chamarajanagar,22.0,SC,Karnataka,R. Dhruvanarayana,Indian National Congress,1555779.0,1133029.0,72.8,141182.0,12.5
+116,117,Chandauli,76.0,GEN,Uttar Pradesh,Dr Mahendra Nath Pandey,Bharatiya Janta Party,1669140.0,980572.0,58.8,156756.0,16.0
+117,118,Chandigarh,1.0,GEN,Chandigarh,Kher Kirron Anupam,Bharatiya Janta Party,615214.0,453455.0,73.7,69642.0,15.4
+118,119,Chandni Chowk,1.0,GEN,Delhi,Dr. Harsh Vardhan,Bharatiya Janta Party,1447228.0,981863.0,67.8,136320.0,13.9
+119,120,Chandrapur,13.0,GEN,Maharashtra,Ahir Hansraj Gangaram,Bharatiya Janta Party,1753690.0,1109743.0,63.3,236269.0,21.3
+120,121,Chatra,4.0,GEN,Jharkhand,Sunil Kumar Singh,Bharatiya Janta Party,1312545.0,712971.0,54.3,178026.0,25.0
+121,122,Chelvella,10.0,GEN,Telangana,Konda Vishweshwar Reddy,Telangana Rashtra Samithi,2185179.0,1315862.0,60.2,73023.0,5.5
+122,123,Chennai Central,4.0,GEN,Tamil Nadu,S.R. Vijayakumar,All India Anna Dravida Munnetra Kazhagam,1328027.0,814894.0,61.4,45841.0,5.6
+123,124,Chennai North,2.0,GEN,Tamil Nadu,Venkatesh Babu .T.G,All India Anna Dravida Munnetra Kazhagam,1422386.0,910114.0,64.0,99704.0,11.0
+124,125,Chennai South,3.0,GEN,Tamil Nadu,Dr. J. Jayavardhan,All India Anna Dravida Munnetra Kazhagam,1795780.0,1081163.0,60.2,136625.0,12.6
+125,126,Chhindwara,16.0,GEN,Madhya Pradesh,Kamal Nath,Indian National Congress,1401277.0,1107498.0,79.0,116537.0,10.5
+126,127,Chhota Udaipur,21.0,ST,Gujarat,Ramsinh Rathwa,Bharatiya Janta Party,1536305.0,1100542.0,71.6,179729.0,16.3
+127,128,Chidambaram,27.0,SC,Tamil Nadu,"Chandrakasi, M",All India Anna Dravida Munnetra Kazhagam,1366189.0,1088423.0,79.7,128495.0,11.8
+128,129,Chikballapur,27.0,GEN,Karnataka,M Veerappa Moily,Indian National Congress,1658342.0,1263274.0,76.2,9520.0,0.8
+129,130,Chikkodi,1.0,GEN,Karnataka,Prakash Babanna Hukkeri,Indian National Congress,1442296.0,1071103.0,74.3,3003.0,0.3
+130,131,Chitradurga,18.0,SC,Karnataka,B.N.Chandrappa,Indian National Congress,1661272.0,1096499.0,66.0,101291.0,9.2
+131,132,Chittoor,6.0,SC,Andhra Pradesh,Naramalli Sivaprasad,Telugu Desam,1452141.0,1198915.0,82.6,44138.0,3.7
+132,133,Chittorgarh,21.0,GEN,Rajasthan,Chandra Prakash Joshi,Bharatiya Janta Party,1818147.0,1172629.0,64.5,316857.0,27.0
+133,134,Churu,3.0,GEN,Rajasthan,Rahul Kaswan,Bharatiya Janta Party,1753825.0,1131104.0,64.5,294739.0,26.1
+134,135,Coimbatore,20.0,GEN,Tamil Nadu,"Nagarajan, P.",All India Anna Dravida Munnetra Kazhagam,1720211.0,1176620.0,68.4,42016.0,3.6
+135,136,Cooch Behar,1.0,SC,West Bengal,Renuka Sinha,All India Trinamool Congress,1613417.0,1332409.0,82.6,87107.0,6.5
+136,137,Cuddalore,26.0,GEN,Tamil Nadu,Arunmozhithevan.A,All India Anna Dravida Munnetra Kazhagam,1247908.0,984538.0,78.9,203125.0,20.6
+137,138,Cuttack,14.0,GEN,Orissa,Bhartruhari Mahatab,Biju Janata Dal,1371617.0,978604.0,71.4,306762.0,31.3
+138,139,Dadra And Nagar Haveli,1.0,GEN,Dadra & Nagar Haveli,Patel Natubhai Gomanbhai,Bharatiya Janta Party,196617.0,165286.0,84.1,6214.0,3.8
+139,140,Dahod,19.0,ST,Gujarat,Jasvantsinh Sumanbhai Bhabhor,Bharatiya Janta Party,1411765.0,900381.0,63.8,230354.0,25.6
+140,141,Dakshina Kannada,17.0,GEN,Karnataka,Nalin Kumar Kateel,Bharatiya Janta Party,1565281.0,1207474.0,77.1,143709.0,11.9
+141,142,Daman And Diu,1.0,GEN,Daman & Diu,Patel Lalubhai Babubhai,Bharatiya Janta Party,111827.0,87233.0,78.0,9222.0,10.6
+142,143,Damoh,7.0,GEN,Madhya Pradesh,Prahalad Singh Patel,Bharatiya Janta Party,1651106.0,912080.0,55.2,213299.0,23.4
+143,144,Darbhanga,14.0,GEN,Bihar,Kirti Azad,Bharatiya Janta Party,1495446.0,828342.0,55.4,35043.0,4.2
+144,145,Darjeeling,4.0,GEN,West Bengal,S.S.Ahluwalia,Bharatiya Janta Party,1437126.0,1142009.0,79.5,197239.0,17.3
+145,146,Dausa,11.0,ST,Rajasthan,Harish Chandra Meena,Bharatiya Janta Party,1524095.0,930492.0,61.1,45404.0,4.9
+146,147,Davanagere,13.0,GEN,Karnataka,G M Siddeshwara,Bharatiya Janta Party,1522712.0,1114868.0,73.2,17607.0,1.6
+147,148,Deoria,66.0,GEN,Uttar Pradesh,Kalraj Mishra,Bharatiya Janta Party,1806926.0,971557.0,53.8,265386.0,27.3
+148,149,Dewas,21.0,SC,Madhya Pradesh,Manohar Untwal,Bharatiya Janta Party,1617215.0,1143968.0,70.7,260313.0,22.8
+149,150,Dhanbad,7.0,GEN,Jharkhand,Pashupati Nath Singh,Bharatiya Janta Party,1889994.0,1143902.0,60.5,292954.0,25.6
+150,151,Dhar,25.0,ST,Madhya Pradesh,Savitri Thakur,Bharatiya Janta Party,1668441.0,1076816.0,64.5,104328.0,9.7
+151,152,Dharmapuri,10.0,GEN,Tamil Nadu,Anbumani Ramadoss,Pattali Makkal Katchi,1358273.0,1101345.0,81.1,77146.0,7.0
+152,153,Dharwad,11.0,GEN,Karnataka,Pralhad Joshi,Bharatiya Janta Party,1579024.0,1041226.0,65.9,113657.0,10.9
+153,154,Dhaurahra,29.0,GEN,Uttar Pradesh,Rekha,Bharatiya Janta Party,1558039.0,1060271.0,68.1,125675.0,11.9
+154,155,Dhenkanal,9.0,GEN,Orissa,Tathagata Satpathy,Biju Janata Dal,1363467.0,1042101.0,76.4,137340.0,13.2
+155,156,Dhubri,4.0,GEN,Assam,Badruddin Ajmal,All India United Democratic Front,1552554.0,1369624.0,88.2,229730.0,16.8
+156,157,Dhule,2.0,GEN,Maharashtra,Dr. Bhamre Subhash Ramrao,Bharatiya Janta Party,1674469.0,983083.0,58.7,130723.0,13.3
+157,158,Diamond Harbour,21.0,GEN,West Bengal,Abhishek Banerjee,All India Trinamool Congress,1555914.0,1261296.0,81.1,71298.0,5.7
+158,159,Dibrugarh,13.0,GEN,Assam,Rameswar Teli,Bharatiya Janta Party,1124305.0,890968.0,79.3,185347.0,20.8
+159,160,Dindigul,22.0,GEN,Tamil Nadu,Udhaya Kumar .M,All India Anna Dravida Munnetra Kazhagam,1400531.0,1083364.0,77.4,127845.0,11.8
+160,161,Dindori,20.0,ST,Maharashtra,Chavan Harishchandra Deoram,Bharatiya Janta Party,1530139.0,970182.0,63.4,247619.0,25.5
+161,162,Domariyaganj,60.0,GEN,Uttar Pradesh,Jagdambika Pal,Bharatiya Janta Party,1761415.0,935027.0,53.1,103588.0,11.1
+162,163,Dum Dum,16.0,GEN,West Bengal,Saugata Roy,All India Trinamool Congress,1405981.0,1132644.0,80.6,154934.0,13.7
+163,164,Dumka,2.0,ST,Jharkhand,Shibu Soren,Jharkhand Mukti Morcha,1247155.0,903060.0,72.4,39030.0,4.3
+164,165,Durg,7.0,GEN,Chhattisgarh,Tamradhwaj Sahu,Indian National Congress,1855781.0,1258342.0,67.8,16848.0,1.3
+165,166,East Delhi,3.0,GEN,Delhi,Maheish Girri,Bharatiya Janta Party,1829578.0,1196336.0,65.4,190463.0,15.9
+166,167,Eluru,7.0,GEN,Andhra Pradesh,Maganti Venkateswara Rao (BABU),Telugu Desam,1427760.0,1201696.0,84.2,101926.0,8.5
+167,168,Ernakulam,12.0,GEN,Kerala,Prof. K.V. Thomas,Indian National Congress,1156467.0,850834.0,73.6,87047.0,10.2
+168,169,Erode,17.0,GEN,Tamil Nadu,Selvakumara Chinnayan S,All India Anna Dravida Munnetra Kazhagam,1321395.0,1008582.0,76.3,211563.0,21.0
+169,170,Etah,22.0,GEN,Uttar Pradesh,Rajveer Singh (RAJU BHAIYA),Bharatiya Janta Party,1577457.0,926281.0,58.7,201001.0,21.7
+170,171,Etawah,41.0,SC,Uttar Pradesh,Ashok Kumar Doharey,Bharatiya Janta Party,1707237.0,939604.0,55.0,172946.0,18.4
+171,172,Faizabad,54.0,GEN,Uttar Pradesh,Lallu Singh,Bharatiya Janta Party,1738701.0,1022716.0,58.8,282775.0,27.6
+172,173,Faridabad,10.0,GEN,Haryana,Krishan Pal,Bharatiya Janta Party,1740352.0,1130726.0,65.0,466873.0,41.3
+173,174,Faridkot,9.0,SC,Punjab,Prof. Sadhu Singh,Aam Aadmi Party,1455075.0,1032107.0,70.9,172516.0,16.7
+174,175,Farrukhabad,40.0,GEN,Uttar Pradesh,Mukesh Rajput,Bharatiya Janta Party,1613781.0,970677.0,60.2,150502.0,15.5
+175,176,Fatehgarh Sahib,8.0,SC,Punjab,Harinder Singh Khalsa,Aam Aadmi Party,1396957.0,1030954.0,73.8,54144.0,5.3
+176,177,Fatehpur,49.0,GEN,Uttar Pradesh,Niranjan Jyoti,Bharatiya Janta Party,1804777.0,1056688.0,58.6,187206.0,17.7
+177,178,Fatehpur Sikri,19.0,GEN,Uttar Pradesh,Babulal,Bharatiya Janta Party,1580582.0,967968.0,61.2,173106.0,17.9
+178,179,Ferozpur,10.0,GEN,Punjab,Sher Singh Ghubaya,Shiromani Akali Dal,1522111.0,1105412.0,72.6,31420.0,2.8
+179,180,Firozabad,20.0,GEN,Uttar Pradesh,Akshay Yadav,Samajwadi Party,1636738.0,1104606.0,67.5,114059.0,10.3
+180,181,Gadchiroli-Chimur,12.0,ST,Maharashtra,Ashok Mahadeorao Nete,Bharatiya Janta Party,1469767.0,1027129.0,69.9,236870.0,23.1
+181,182,Gandhinagar,6.0,GEN,Gujarat,L.K.Advani,Bharatiya Janta Party,1733972.0,1135495.0,65.5,483121.0,42.5
+182,183,Ganganagar,1.0,SC,Rajasthan,Nihalchand,Bharatiya Janta Party,1718421.0,1256806.0,73.1,291741.0,23.2
+183,184,Garhwal,2.0,GEN,Uttarakhand,(MAJ GEN (RETD.) ) BHUWAN CHANDRA KHANDURI (AVSM),Bharatiya Janta Party,1269083.0,682024.0,53.7,184526.0,27.1
+184,185,Gauhati,7.0,GEN,Assam,Bijoya Chakravarty,Bharatiya Janta Party,1922270.0,1511729.0,78.6,315784.0,20.9
+185,186,Gautam Buddh Nagar,13.0,GEN,Uttar Pradesh,Dr.Mahesh Sharma,Bharatiya Janta Party,1986117.0,1199238.0,60.4,280212.0,23.4
+186,187,Gaya,38.0,SC,Bihar,Hari Manjhi,Bharatiya Janta Party,1500751.0,809378.0,53.9,115504.0,14.3
+187,188,Ghatal,32.0,GEN,West Bengal,Adhikari Deepak (DEV),All India Trinamool Congress,1610489.0,1366709.0,84.9,260891.0,19.1
+188,189,Ghaziabad,12.0,GEN,Uttar Pradesh,Vijay Kumar Singh,Bharatiya Janta Party,2357546.0,1342320.0,56.9,567260.0,42.3
+189,190,Ghazipur,75.0,GEN,Uttar Pradesh,Manoj Sinha,Bharatiya Janta Party,1801519.0,986673.0,54.8,32452.0,3.3
+190,191,Ghosi,70.0,GEN,Uttar Pradesh,Harinarayan Rajbhar,Bharatiya Janta Party,1891113.0,1039656.0,55.0,146015.0,14.0
+191,192,Giridih,6.0,GEN,Jharkhand,Ravindra Kumar Pandey,Bharatiya Janta Party,1515137.0,969997.0,64.0,40313.0,4.2
+192,193,Godda,3.0,GEN,Jharkhand,Nishikant Dubey,Bharatiya Janta Party,1590628.0,1049442.0,66.0,60682.0,5.8
+193,194,Gonda,59.0,GEN,Uttar Pradesh,Kirti Vardhan Singh,Bharatiya Janta Party,1710827.0,873732.0,51.1,160416.0,18.4
+194,195,Gopalganj,17.0,SC,Bihar,Janak Ram,Bharatiya Janta Party,1652767.0,903583.0,54.7,286936.0,31.8
+195,196,Gorakhpur,64.0,GEN,Uttar Pradesh,Adityanath,Bharatiya Janta Party,1904498.0,1040199.0,54.6,312783.0,30.1
+196,197,Gulbarga,5.0,SC,Karnataka,Mallikarjun Kharge,Indian National Congress,1721990.0,997638.0,57.9,74733.0,7.5
+197,198,Guna,4.0,GEN,Madhya Pradesh,Jyotiraditya M Scindia,Indian National Congress,1605619.0,976629.0,60.8,120792.0,12.4
+198,199,Guntur,8.0,GEN,Andhra Pradesh,Jayadev Galla,Telugu Desam,1572016.0,1244926.0,79.2,69111.0,5.6
+199,200,Gurdaspur,1.0,GEN,Punjab,Vinod Khanna,Bharatiya Janta Party,1500337.0,1042699.0,69.5,136065.0,13.0
+200,201,Gurgaon,9.0,GEN,Haryana,Inderjit Singh Rao,Bharatiya Janta Party,1845623.0,1320619.0,71.6,274722.0,20.8
+201,202,Gwalior,3.0,GEN,Madhya Pradesh,Narendra Singh Tomar,Bharatiya Janta Party,1877003.0,990912.0,52.8,29699.0,3.0
+202,203,Hajipur,21.0,SC,Bihar,Ramvilas Paswan,Lok Jan Shakti Party,1649547.0,904753.0,54.9,225500.0,24.9
+203,204,Hamirpur,3.0,GEN,Himachal Pradesh,Anurag Singh Thakur,Bharatiya Janta Party,1247699.0,835205.0,66.9,98403.0,11.8
+204,205,Hamirpur,47.0,GEN,Uttar Pradesh,Kunwar Pushpendra Singh Chandel,Bharatiya Janta Party,1737993.0,975240.0,56.1,266788.0,27.4
+205,206,Hardoi,31.0,SC,Uttar Pradesh,Anshul Verma,Bharatiya Janta Party,1714387.0,972894.0,56.8,81343.0,8.4
+206,207,Hardwar,5.0,GEN,Uttarakhand,Ramesh Pokhriyal Nishank,Bharatiya Janta Party,1642873.0,1175692.0,71.6,177822.0,15.1
+207,208,Hassan,16.0,GEN,Karnataka,H.D. Devegowda,Janata Dal (Secular),1561336.0,1147172.0,73.5,100462.0,8.8
+208,209,Hathras,16.0,SC,Uttar Pradesh,Rajesh Kumar Diwaker,Bharatiya Janta Party,1758927.0,1049273.0,59.7,326386.0,31.1
+209,210,Hatkanangle,48.0,GEN,Maharashtra,Raju Shetty,Swabhimani Paksha,1630598.0,1188871.0,72.9,177810.0,15.0
+210,211,Haveri,10.0,GEN,Karnataka,Udasi Shivakumar Channabasappa,Bharatiya Janta Party,1558749.0,1115968.0,71.6,87571.0,7.8
+211,212,Hazaribagh,14.0,GEN,Jharkhand,Jayant Sinha,Bharatiya Janta Party,1518831.0,967152.0,63.7,159128.0,16.5
+212,213,Hindupur,9.0,GEN,Andhra Pradesh,Kristappa Nimmala,Telugu Desam,1446503.0,1177257.0,81.4,97325.0,8.3
+213,214,Hingoli,15.0,GEN,Maharashtra,Rajeev Shankarrao Satav,Indian National Congress,1586194.0,1051164.0,66.3,1632.0,0.2
+214,215,Hisar,4.0,GEN,Haryana,Dushyant Chautala,Indian National Lok Dal,1517606.0,1155914.0,76.2,31847.0,2.8
+215,216,Hooghly,28.0,GEN,West Bengal,Dr. Ratna De (NAG),All India Trinamool Congress,1630042.0,1348870.0,82.8,189084.0,14.0
+216,217,Hoshangabad,17.0,GEN,Madhya Pradesh,Uday Pratap Singh,Bharatiya Janta Party,1568127.0,1031175.0,65.8,389960.0,37.8
+217,218,Hoshiarpur,5.0,SC,Punjab,Vijay Sampla,Bharatiya Janta Party,1485286.0,961297.0,64.7,13582.0,1.4
+218,219,Howrah,25.0,GEN,West Bengal,Prasun Banerjee,All India Trinamool Congress,1505099.0,1125399.0,74.8,196956.0,17.5
+219,220,Hyderabad,9.0,GEN,Telangana,Asaduddin Owaisi,All India Majlis-E-Ittehadul Muslimeen,1823664.0,971421.0,53.3,202454.0,20.8
+220,221,Idukki,13.0,GEN,Kerala,Adv.Joice George,Independent,1158735.0,819766.0,70.8,50542.0,6.2
+221,222,Indore,26.0,GEN,Madhya Pradesh,Sumitra Mahajan (TAI),Bharatiya Janta Party,2115303.0,1316817.0,62.3,466901.0,35.5
+222,223,Inner Manipur,1.0,GEN,Manipur,Dr. Thokchom Meinya,Indian National Congress,855359.0,640871.0,74.9,94674.0,14.8
+223,224,Jabalpur,13.0,GEN,Madhya Pradesh,Rakesh Singh,Bharatiya Janta Party,1711683.0,1002184.0,58.6,208639.0,20.8
+224,225,Jadavpur,22.0,GEN,West Bengal,Sugata Bose,All India Trinamool Congress,1595746.0,1272362.0,79.7,125203.0,9.8
+225,226,Jagatsinghpur,16.0,SC,Orissa,Kulamani Samal,Biju Janata Dal,1499673.0,1131932.0,75.5,276394.0,24.4
+226,227,Jahanabad,36.0,GEN,Bihar,Dr. Arun Kumar,Rashtriya Lok Samta Party,1423246.0,811516.0,57.0,42340.0,5.2
+227,228,Jaipur,7.0,GEN,Rajasthan,Ramcharan Bohara,Bharatiya Janta Party,1957818.0,1296806.0,66.2,539345.0,41.6
+228,229,Jaipur Rural,6.0,GEN,Rajasthan,Rajyavardhan Singh Rathore,Bharatiya Janta Party,1699462.0,1013691.0,59.7,332896.0,32.8
+229,230,Jajpur,8.0,SC,Orissa,Rita Tarai,Biju Janata Dal,1303733.0,980435.0,75.2,320271.0,32.7
+230,231,Jalandhar,4.0,SC,Punjab,Santokh Singh Chaudhary,Indian National Congress,1551497.0,1040762.0,67.1,70981.0,6.8
+231,232,Jalaun,45.0,SC,Uttar Pradesh,Bhanu Pratap Singh Verma,Bharatiya Janta Party,1903332.0,1109166.0,58.3,287202.0,25.9
+232,233,Jalgaon,3.0,GEN,Maharashtra,A.T. Nana Patil,Bharatiya Janta Party,1707933.0,990332.0,58.0,383525.0,38.7
+233,234,Jalna,18.0,GEN,Maharashtra,Danve Raosaheb Dadarao,Bharatiya Janta Party,1612054.0,1066259.0,66.1,206798.0,19.4
+234,235,Jalore,18.0,GEN,Rajasthan,Devji Patel,Bharatiya Janta Party,1824968.0,1087272.0,59.6,381145.0,35.1
+235,236,Jalpaiguri,3.0,SC,West Bengal,Bijoy Chandra Barman,All India Trinamool Congress,1531469.0,1302117.0,85.0,69606.0,5.3
+236,237,Jammu,6.0,GEN,Jammu & Kashmir,Jugal Kishore,Bharatiya Janta Party,1848155.0,1253593.0,67.8,257280.0,20.5
+237,238,Jamnagar,12.0,GEN,Gujarat,Poonamben Hematbhai Maadam,Bharatiya Janta Party,1470952.0,852643.0,58.0,175289.0,20.6
+238,239,Jamshedpur,9.0,GEN,Jharkhand,Bidyut Baran Mahato,Bharatiya Janta Party,1581665.0,1049140.0,66.3,99876.0,9.5
+239,240,Jamui,40.0,SC,Bihar,Chirag Kumar Paswan,Lok Jan Shakti Party,1550936.0,775639.0,50.0,85947.0,11.1
+240,241,Jangipur,9.0,GEN,West Bengal,Abhijit Mukherjee,Indian National Congress,1391656.0,1119084.0,80.4,8161.0,0.7
+241,242,Janjgir-Champa,3.0,SC,Chhattisgarh,Kamla Patle,Bharatiya Janta Party,1737532.0,1073347.0,61.8,174961.0,16.3
+242,243,Jaunpur,73.0,GEN,Uttar Pradesh,Krishna Pratap 'k.P.',Bharatiya Janta Party,1848842.0,1007143.0,54.5,146310.0,14.5
+243,244,Jhalawar-Baran,25.0,GEN,Rajasthan,Dushyant Singh,Bharatiya Janta Party,1669842.0,1146364.0,68.7,281546.0,24.6
+244,245,Jhanjharpur,7.0,GEN,Bihar,Birendra Kumar Chaudhary,Bharatiya Janta Party,1650753.0,941249.0,57.0,55408.0,5.9
+245,246,Jhansi,46.0,GEN,Uttar Pradesh,Uma Bharati,Bharatiya Janta Party,1932015.0,1320804.0,68.4,190467.0,14.4
+246,247,Jhargram,33.0,ST,West Bengal,Uma Saren,All India Trinamool Congress,1475112.0,1257613.0,85.3,347883.0,27.7
+247,248,Jhunjhunu,4.0,GEN,Rajasthan,Santosh Ahlawat,Bharatiya Janta Party,1696788.0,1006465.0,59.3,233835.0,23.2
+248,249,Jodhpur,16.0,GEN,Rajasthan,Gajendrasingh Shekhawat,Bharatiya Janta Party,1727363.0,1078598.0,62.4,410051.0,38.0
+249,250,Jorhat,12.0,GEN,Assam,Kamakhya Prasad Tasa,Bharatiya Janta Party,1234448.0,931336.0,75.5,102420.0,11.0
+250,251,Joynagar,19.0,SC,West Bengal,Pratima Mondal,All India Trinamool Congress,1458724.0,1186052.0,81.3,108384.0,9.1
+251,252,Junagadh,13.0,GEN,Gujarat,Chudasama Rajeshbhai Naranbhai,Bharatiya Janta Party,1485543.0,941378.0,63.4,135832.0,14.4
+252,253,Kachchh,1.0,SC,Gujarat,Chavda Vinod Lakhamashi,Bharatiya Janta Party,1533782.0,946240.0,61.7,254482.0,26.9
+253,254,Kadapa,10.0,GEN,Andhra Pradesh,Y.S. Avinash Reddy,Yuvajana Sramika Rythu Congress Party,1550579.0,1200662.0,77.4,190323.0,15.9
+254,255,Kairana,2.0,GEN,Uttar Pradesh,Hukum Singh,Bharatiya Janta Party,1531755.0,1119324.0,73.1,236828.0,21.2
+255,256,Kaiserganj,57.0,GEN,Uttar Pradesh,Brij Bhusan Sharan Singh,Bharatiya Janta Party,1711967.0,943357.0,55.1,78218.0,8.3
+256,257,Kakinada,11.0,GEN,Andhra Pradesh,Thota Narasimham,Telugu Desam,1418290.0,1099999.0,77.6,3431.0,0.3
+257,258,Kalahandi,11.0,GEN,Orissa,Arka Keshari Deo,Biju Janata Dal,1474135.0,1117536.0,75.8,56347.0,5.0
+258,259,Kaliabor,11.0,GEN,Assam,Gourav Gogoi,Indian National Congress,1457865.0,1166490.0,80.0,93874.0,8.0
+259,260,Kallakurichi,14.0,GEN,Tamil Nadu,Kamaraj. K,All India Anna Dravida Munnetra Kazhagam,1412499.0,1107241.0,78.4,223507.0,20.2
+260,261,Kalyan,24.0,GEN,Maharashtra,Dr.Shrikant Eknath Shinde,Shiv Sena,1922046.0,824196.0,42.9,250749.0,30.4
+261,262,Kancheepuram,6.0,SC,Tamil Nadu,Maragatham K,All India Anna Dravida Munnetra Kazhagam,1480123.0,1128399.0,76.2,146866.0,13.0
+262,263,Kandhamal,13.0,GEN,Orissa,Hemendra Chandra Singh,Biju Janata Dal,1143602.0,839415.0,73.4,181017.0,21.6
+263,264,Kangra,1.0,GEN,Himachal Pradesh,Shanta Kumar,Bharatiya Janta Party,1258601.0,799445.0,63.5,170072.0,21.3
+264,265,Kanker,11.0,ST,Chhattisgarh,Vikram Dev Usendi,Bharatiya Janta Party,1447774.0,1016943.0,70.2,35158.0,3.5
+265,266,Kannauj,42.0,GEN,Uttar Pradesh,Dimple Yadav,Samajwadi Party,1808889.0,1114460.0,61.6,19907.0,1.8
+266,267,Kanniyakumari,39.0,GEN,Tamil Nadu,Radhakrishnan P.,Bharatiya Janta Party,1467796.0,990742.0,67.5,128662.0,13.0
+267,268,Kannur,2.0,GEN,Kerala,P K Sreemathi Teacher,Communist Party Of India (Marxist),1170266.0,947117.0,80.9,6566.0,0.7
+268,269,Kanpur,43.0,GEN,Uttar Pradesh,Dr.Murli Manohar Joshi,Bharatiya Janta Party,1611248.0,835079.0,51.8,222946.0,26.7
+269,270,Kanthi,31.0,GEN,West Bengal,Adhikari Sisir Kumar,All India Trinamool Congress,1490409.0,1290811.0,86.6,229490.0,17.8
+270,271,Karakat,35.0,GEN,Bihar,Upendra Kushwaha,Rashtriya Lok Samta Party,1569989.0,789927.0,50.3,105241.0,13.3
+271,272,Karauli-Dholpur,10.0,SC,Rajasthan,Manoj Rajoria,Bharatiya Janta Party,1549662.0,845941.0,54.6,27216.0,3.2
+272,273,Karimganj,1.0,SC,Assam,Radheshyam Biswas,All India United Democratic Front,1165997.0,886920.0,76.1,102094.0,11.5
+273,274,Karimnagar,3.0,GEN,Telangana,Vinod Kumar Boinapally,Telangana Rashtra Samithi,1550834.0,1125691.0,72.6,205077.0,18.2
+274,275,Karnal,5.0,GEN,Haryana,Ashwini Kumar,Bharatiya Janta Party,1684321.0,1193500.0,70.9,360147.0,30.2
+275,276,Karur,23.0,GEN,Tamil Nadu,"Thambidurai,m.",All India Anna Dravida Munnetra Kazhagam,1298322.0,1046534.0,80.6,195247.0,18.7
+276,277,Kasaragod,1.0,GEN,Kerala,P Karunakaran,Communist Party Of India (Marxist),1243730.0,974215.0,78.3,6921.0,0.7
+277,278,Katihar,11.0,GEN,Bihar,Tariq Anwar,Nationalist Congress Party,1446478.0,977830.0,67.6,114740.0,11.7
+278,279,Kaushambi,50.0,SC,Uttar Pradesh,Vinod Kumar Sonkar,Bharatiya Janta Party,1738994.0,910038.0,52.3,42847.0,4.7
+279,280,Kendrapara,15.0,GEN,Orissa,Baijayant Panda,Biju Janata Dal,1555444.0,1140999.0,73.4,209108.0,18.3
+280,281,Keonjhar,4.0,ST,Orissa,Sakuntala Laguri,Biju Janata Dal,1346683.0,1083869.0,80.5,157317.0,14.5
+281,282,Khadoor Sahib,3.0,GEN,Punjab,Ranjit Singh Brahmpura,Shiromani Akali Dal,1563256.0,1040518.0,66.6,100569.0,9.7
+282,283,Khagaria,25.0,GEN,Bihar,Choudhary Mahboob Ali Kaiser,Lok Jan Shakti Party,1492068.0,896231.0,60.1,76003.0,8.5
+283,284,Khajuraho,8.0,GEN,Madhya Pradesh,Nagendra Singh,Bharatiya Janta Party,1702794.0,874477.0,51.4,247490.0,28.3
+284,285,Khammam,17.0,GEN,Telangana,Ponguleti Srinivasa Reddy,Yuvajana Sramika Rythu Congress Party,1440289.0,1182897.0,82.1,11974.0,1.0
+285,286,Khandwa,28.0,GEN,Madhya Pradesh,Nandkumar Singh Chouhan (NANDU BHAIYA),Bharatiya Janta Party,1759410.0,1257327.0,71.5,259714.0,20.7
+286,287,Khargone,27.0,ST,Madhya Pradesh,Subhash Patel,Bharatiya Janta Party,1703271.0,1152525.0,67.7,257879.0,22.4
+287,288,Kheda,17.0,GEN,Gujarat,Chauhan Devusinh Jesingbhai (CHAUHAN DEVUSINH),Bharatiya Janta Party,1599476.0,955906.0,59.8,232901.0,24.4
+288,289,Kheri,28.0,GEN,Uttar Pradesh,Ajay Kumar,Bharatiya Janta Party,1679466.0,1077868.0,64.2,110274.0,10.2
+289,290,Khunti,11.0,ST,Jharkhand,Karia Munda,Bharatiya Janta Party,1111852.0,736955.0,66.3,92248.0,12.5
+290,291,Kishanganj,10.0,GEN,Bihar,Mohammad Asrarul Haque,Indian National Congress,1438990.0,928490.0,64.5,194612.0,21.0
+291,292,Kodarma,5.0,GEN,Jharkhand,Ravindra Kr. Ray,Bharatiya Janta Party,1639629.0,1024906.0,62.5,98654.0,9.6
+292,293,Kokrajhar,5.0,ST,Assam,Naba Kumar Sarania (HIRA),Independent,1505476.0,1223869.0,81.3,355779.0,29.1
+293,294,Kolar,28.0,SC,Karnataka,K.H.Muniyappa,Indian National Congress,1492975.0,1127323.0,75.5,47850.0,4.2
+294,295,Kolhapur,47.0,GEN,Maharashtra,Dhananjay Bhimrao Mahadik,Nationalist Congress Party,1758300.0,1260289.0,71.7,33259.0,2.6
+295,296,Kolkata Dakshin,23.0,GEN,West Bengal,Subrata Bakshi,All India Trinamool Congress,1685296.0,1167979.0,69.3,136339.0,11.7
+296,297,Kolkata Uttar,24.0,GEN,West Bengal,Sudip Bandyopadhyay,All India Trinamool Congress,1433985.0,955778.0,66.7,96226.0,10.1
+297,298,Kollam,18.0,GEN,Kerala,N.K.Premachandran,Revolutionary Socialist Party,1219415.0,879056.0,72.1,37649.0,4.3
+298,299,Koppal,8.0,GEN,Karnataka,Karadi Sanganna Amarappa,Bharatiya Janta Party,1535105.0,1006508.0,65.6,32414.0,3.2
+299,300,Koraput,21.0,ST,Orissa,Jhina Hikaka,Biju Janata Dal,1300437.0,989444.0,76.1,19328.0,2.0
+300,301,Korba,4.0,GEN,Chhattisgarh,Dr. Banshilal Mahto,Bharatiya Janta Party,1419610.0,1052720.0,74.2,4265.0,0.4
+301,302,Kota,24.0,GEN,Rajasthan,Om Birla,Bharatiya Janta Party,1744539.0,1154960.0,66.2,200782.0,17.4
+302,303,Kottayam,14.0,GEN,Kerala,Jose K. Mani,Kerala Congress(M),1161463.0,831636.0,71.6,120599.0,14.5
+303,304,Kozhikode,5.0,GEN,Kerala,M .K Raghavan,Indian National Congress,1182484.0,943009.0,79.8,16883.0,1.8
+304,305,Krishnagiri,9.0,GEN,Tamil Nadu,Ashok Kumar.K,All India Anna Dravida Munnetra Kazhagam,1379957.0,1068391.0,77.4,206591.0,19.3
+305,306,Krishnanagar,12.0,GEN,West Bengal,Tapas Paul,All India Trinamool Congress,1476783.0,1247914.0,84.5,71255.0,5.7
+306,307,Kurnool,12.0,GEN,Andhra Pradesh,Butta Renuka,Yuvajana Sramika Rythu Congress Party,1481807.0,1065732.0,71.9,44131.0,4.1
+307,308,Kurukshetra,2.0,GEN,Haryana,Raj Kumar Saini,Bharatiya Janta Party,1498459.0,1135892.0,75.8,129736.0,11.4
+308,309,Kushi Nagar,65.0,GEN,Uttar Pradesh,Rajesh Pandey Urf Guddu,Bharatiya Janta Party,1680992.0,950445.0,56.5,85540.0,9.0
+309,310,Ladakh,4.0,GEN,Jammu & Kashmir,Thupstan Chhewang,Bharatiya Janta Party,166763.0,118029.0,70.8,36.0,0.0
+310,311,Lakhimpur,14.0,GEN,Assam,Sarbananda Sonowal,Bharatiya Janta Party,1430994.0,1111975.0,77.7,292138.0,26.3
+311,312,Lakshadweep,1.0,ST,Lakshadweep,Mohammed Faizal P.P.,Nationalist Congress Party,49922.0,43239.0,86.6,1535.0,3.6
+312,313,Lalganj,68.0,SC,Uttar Pradesh,Neelam Sonkar,Bharatiya Janta Party,1661483.0,898655.0,54.1,63086.0,7.0
+313,314,Latur,41.0,SC,Maharashtra,Dr. Sunil Baliram Gaikwad,Bharatiya Janta Party,1682607.0,1057156.0,62.8,253395.0,24.0
+314,315,Lohardaga,12.0,ST,Jharkhand,Sudarshan Bhagat,Bharatiya Janta Party,1119144.0,651460.0,58.2,6489.0,1.0
+315,316,Lucknow,35.0,GEN,Uttar Pradesh,Raj Nath Singh,Bharatiya Janta Party,1949956.0,1033783.0,53.0,272749.0,26.4
+316,317,Ludhiana,7.0,GEN,Punjab,Ravneet Singh Bittu,Indian National Congress,1561201.0,1100457.0,70.5,19709.0,1.8
+317,318,Machhlishahr,74.0,SC,Uttar Pradesh,Ram Charitra Nishad,Bharatiya Janta Party,1891969.0,997902.0,52.7,172155.0,17.3
+318,319,Machilipatnam,13.0,GEN,Andhra Pradesh,Konakalla Narayana Rao,Telugu Desam,1369311.0,1141065.0,83.3,81057.0,7.1
+319,320,Madha,43.0,GEN,Maharashtra,Mohite Patil Vijaysinh Shankarrao,Nationalist Congress Party,1727308.0,1079619.0,62.5,25344.0,2.3
+320,321,Madhepura,13.0,GEN,Bihar,Rajesh Ranjan @ Pappu Yadav,Rashtriya Janata Dal,1725578.0,1034799.0,60.0,56209.0,5.4
+321,322,Madhubani,6.0,GEN,Bihar,Hukm Deo Narayan Yadav,Bharatiya Janta Party,1627969.0,860453.0,52.9,20535.0,2.4
+322,323,Madurai,32.0,GEN,Tamil Nadu,R.Gopalakrishnan,All India Anna Dravida Munnetra Kazhagam,1441434.0,978346.0,67.9,197436.0,20.2
+323,324,Mahabubabad,16.0,ST,Telangana,Prof. Azmeera Seetaram Naik,Telangana Rashtra Samithi,1387343.0,1124370.0,81.0,34992.0,3.1
+324,325,Maharajganj,63.0,GEN,Uttar Pradesh,Pankaj,Bharatiya Janta Party,1743131.0,1056078.0,60.6,240458.0,22.8
+325,326,Maharajganj,19.0,GEN,Bihar,Janardan Singh Sigriwal,Bharatiya Janta Party,1644524.0,846654.0,51.5,38415.0,4.5
+326,327,Mahasamund,9.0,GEN,Chhattisgarh,Chandu Lal Sahu (CHANDU BHAIYA),Bharatiya Janta Party,1515747.0,1131209.0,74.6,1217.0,0.1
+327,328,Mahbubnagar,11.0,GEN,Telangana,Ap Jithender Reddy,Telangana Rashtra Samithi,1418672.0,1014800.0,71.5,2590.0,0.3
+328,329,Mahesana,4.0,GEN,Gujarat,Patel Jayshreeben Kanubhai,Bharatiya Janta Party,1498219.0,1004258.0,67.0,208891.0,20.8
+329,330,Mainpuri,21.0,GEN,Uttar Pradesh,Mulayam Singh Yadav,Samajwadi Party,1653065.0,999265.0,60.5,364666.0,36.5
+330,331,Malappuram,6.0,GEN,Kerala,E. Ahamed,Indian Union Muslim League,1198444.0,853467.0,71.2,194739.0,22.8
+331,332,Maldaha Dakshin,8.0,GEN,West Bengal,Abu Hasem Khan Chowdhury,Indian National Congress,1347143.0,1092407.0,81.1,164111.0,15.0
+332,333,Maldaha Uttar,7.0,GEN,West Bengal,Mausam Noor,Indian National Congress,1425428.0,1162985.0,81.6,65705.0,5.6
+333,334,Malkajgiri,7.0,GEN,Telangana,Ch.Malla Reddy,Telugu Desam,3183325.0,1620397.0,50.9,28371.0,1.8
+334,335,Mandi,2.0,GEN,Himachal Pradesh,Ram Swaroop Sharma,Bharatiya Janta Party,1150408.0,726094.0,63.1,39856.0,5.5
+335,336,Mandla,14.0,ST,Madhya Pradesh,Faggan Singh Kulaste,Bharatiya Janta Party,1824424.0,1218518.0,66.8,110469.0,9.1
+336,337,Mandsour,23.0,GEN,Madhya Pradesh,Sudhir Gupta,Bharatiya Janta Party,1626571.0,1161349.0,71.4,303649.0,26.1
+337,338,Mandya,20.0,GEN,Karnataka,C.S.Puttaraju,Janata Dal (Secular),1669262.0,1192638.0,71.5,5518.0,0.5
+338,339,Mangaldoi,8.0,GEN,Assam,Ramen Deka,Bharatiya Janta Party,1515676.0,1233237.0,81.4,22884.0,1.9
+339,340,Mathura,17.0,GEN,Uttar Pradesh,Hema Malini,Bharatiya Janta Party,1682260.0,1076868.0,64.0,330743.0,30.7
+340,341,Mathurapur,20.0,SC,West Bengal,Choudhury Mohan Jatua,All India Trinamool Congress,1488784.0,1265531.0,85.0,138436.0,10.9
+341,342,Maval,33.0,GEN,Maharashtra,Appa Alias Shrirang Chandu Barne,Shiv Sena,1953741.0,1174335.0,60.1,157397.0,13.4
+342,343,Mavelikara,16.0,SC,Kerala,Kodikunnil Suresh,Indian National Congress,1252668.0,889060.0,71.0,32737.0,3.7
+343,344,Mayiladuthurai,28.0,GEN,Tamil Nadu,Bharathi Mohan R.K,All India Anna Dravida Munnetra Kazhagam,1350318.0,1025538.0,76.0,277050.0,27.0
+344,345,Mayurbhanj,5.0,ST,Orissa,Rama Chandra Hansdah,Biju Janata Dal,1327555.0,1053399.0,79.4,122866.0,11.7
+345,346,Medak,6.0,GEN,Telangana,Kalvakuntla Chandrasekhar Rao,Telangana Rashtra Samithi,1536715.0,1191096.0,77.5,397029.0,33.3
+346,347,Medinipur,34.0,GEN,West Bengal,Sandhya Roy,All India Trinamool Congress,1499673.0,1260032.0,84.0,184666.0,14.7
+347,348,Meerut,10.0,GEN,Uttar Pradesh,Rajendra Agarwal,Bharatiya Janta Party,1764388.0,1113384.0,63.1,232326.0,20.9
+348,349,Mirzapur,79.0,GEN,Uttar Pradesh,Anupriya Singh Patel,Apna Dal,1720661.0,1007627.0,58.6,219079.0,21.7
+349,350,Misrikh,32.0,SC,Uttar Pradesh,Anju Bala,Bharatiya Janta Party,1725585.0,998314.0,57.9,87363.0,8.8
+350,351,Mizoram,1.0,ST,Mizoram,C. L. Ruala,Indian National Congress,702170.0,433201.0,61.7,6154.0,1.4
+351,352,Mohanlalganj,34.0,SC,Uttar Pradesh,Kaushal Kishore,Bharatiya Janta Party,1838194.0,1116588.0,60.7,145416.0,13.0
+352,353,Moradabad,6.0,GEN,Uttar Pradesh,Kunwer Sarvesh Kumar,Bharatiya Janta Party,1772046.0,1127965.0,63.7,87504.0,7.8
+353,354,Morena,1.0,GEN,Madhya Pradesh,Anoop Mishra,Bharatiya Janta Party,1702492.0,854279.0,50.2,132981.0,15.6
+354,355,Mumbai North,26.0,GEN,Maharashtra,Gopal Chinayya Shetty,Bharatiya Janta Party,1783870.0,946562.0,53.1,446582.0,47.2
+355,356,Mumbai North Central,29.0,GEN,Maharashtra,Poonam Mahajan Alias Poonam Vajendla Rao,Bharatiya Janta Party,1738894.0,845292.0,48.6,186771.0,22.1
+356,357,Mumbai North East,28.0,GEN,Maharashtra,Kirit Somaiya,Bharatiya Janta Party,1668357.0,861761.0,51.7,317122.0,36.8
+357,358,Mumbai North West,27.0,GEN,Maharashtra,Gajanan Chandrakant Kirtikar,Shiv Sena,1775428.0,895517.0,50.4,183028.0,20.4
+358,359,Mumbai South,31.0,GEN,Maharashtra,Arvind Sawant,Shiv Sena,1485846.0,780715.0,52.5,128148.0,16.4
+359,360,Mumbai South Central,30.0,GEN,Maharashtra,Rahul Ramesh Shewale,Shiv Sena,1447885.0,769060.0,53.1,138342.0,18.0
+360,361,Munger,28.0,GEN,Bihar,Veena Devi,Lok Jan Shakti Party,1696546.0,914350.0,53.9,109084.0,11.9
+361,362,Murshidabad,11.0,GEN,West Bengal,Badaruddoza Khan,Communist Party Of India (Marxist),1512098.0,1287763.0,85.2,18453.0,1.4
+362,363,Muzaffarnagar,3.0,GEN,Uttar Pradesh,(DR.) SANJEEV KUMAR BALYAN,Bharatiya Janta Party,1588483.0,1107434.0,69.7,401150.0,36.2
+363,364,Muzaffarpur,15.0,GEN,Bihar,Ajay Nishad,Bharatiya Janta Party,1551363.0,948887.0,61.2,222422.0,23.4
+364,365,Mysore,21.0,GEN,Karnataka,Prathap Simha,Bharatiya Janta Party,1723134.0,1159594.0,67.3,31608.0,2.7
+365,366,Nabarangpur,12.0,ST,Orissa,Balabhadra Majhi,Biju Janata Dal,1297210.0,1022172.0,78.8,2042.0,0.2
+366,367,Nagaland,1.0,ST,Nagaland,Neiphiu Rio,Naga Peoples Front,1182948.0,1038910.0,87.8,400225.0,38.5
+367,368,Nagapattinam,29.0,SC,Tamil Nadu,Gopal. Dr. K,All India Anna Dravida Munnetra Kazhagam,1210626.0,942202.0,77.8,106079.0,11.3
+368,369,Nagarkurnool,12.0,SC,Telangana,Yellaiah Nandi,Indian National Congress,1477338.0,1108968.0,75.1,16676.0,1.5
+369,370,Nagaur,14.0,GEN,Rajasthan,C R Choudhary,Bharatiya Janta Party,1678662.0,1004019.0,59.8,75218.0,7.5
+370,371,Nagina,5.0,SC,Uttar Pradesh,Yashwant Singh,Bharatiya Janta Party,1493411.0,942196.0,63.1,92390.0,9.8
+371,372,Nagpur,10.0,GEN,Maharashtra,Gadkari Nitin Jairam,Bharatiya Janta Party,1900787.0,1085058.0,57.1,284828.0,26.3
+372,373,Nainital-Udhamsingh Nagar,4.0,GEN,Uttarakhand,Bhagat Singh Koshyari,Bharatiya Janta Party,1610810.0,1101435.0,68.4,284717.0,25.8
+373,374,Nalanda,29.0,GEN,Bihar,Kaushlendra Kumar,Janata Dal (United),1951967.0,921761.0,47.2,9627.0,1.0
+374,375,Nalgonda,13.0,GEN,Telangana,Gutha Sukhender Reddy,Indian National Congress,1495580.0,1189399.0,79.5,193156.0,16.2
+375,376,Namakkal,16.0,GEN,Tamil Nadu,Sundaram P.R,All India Anna Dravida Munnetra Kazhagam,1329552.0,1058755.0,79.6,294374.0,27.8
+376,377,Nanded,16.0,GEN,Maharashtra,Ashok Shankarrao Chavan,Indian National Congress,1687057.0,1013350.0,60.1,81455.0,8.0
+377,378,Nandurbar,1.0,ST,Maharashtra,Dr.Gavit Heena Vaijaykumar,Bharatiya Janta Party,1672715.0,1116676.0,66.8,106905.0,9.6
+378,379,Nandyal,14.0,GEN,Andhra Pradesh,S.P.Y Reddy,Yuvajana Sramika Rythu Congress Party,1577128.0,1204956.0,76.4,105766.0,8.8
+379,380,Narasaraopet,15.0,GEN,Andhra Pradesh,Sambasiva Rao Rayapati,Telugu Desam,1514861.0,1282058.0,84.6,35280.0,2.8
+380,381,Narsapuram,16.0,GEN,Andhra Pradesh,Gokaraju Ganga Raju,Bharatiya Janta Party,1325143.0,1088951.0,82.2,85351.0,7.8
+381,382,Nashik,21.0,GEN,Maharashtra,Godse Hemant Tukaram,Shiv Sena,1593237.0,937405.0,58.8,187336.0,20.0
+382,383,Navsari,25.0,GEN,Gujarat,C. R. Patil,Bharatiya Janta Party,1764622.0,1160747.0,65.8,558116.0,48.1
+383,384,Nawada,39.0,GEN,Bihar,Giriraj Singh,Bharatiya Janta Party,1675789.0,884441.0,52.8,140157.0,15.8
+384,385,Nellore,17.0,GEN,Andhra Pradesh,Mekapati Rajamohan Reddy,Yuvajana Sramika Rythu Congress Party,1606140.0,1187648.0,73.9,13478.0,1.1
+385,386,New Delhi,4.0,GEN,Delhi,Meenakashi Lekhi,Bharatiya Janta Party,1490147.0,969812.0,65.1,162708.0,16.8
+386,387,Nilgiris,19.0,SC,Tamil Nadu,"Gopalakrishnan, C.",All India Anna Dravida Munnetra Kazhagam,1269163.0,933076.0,73.5,104940.0,11.2
+387,388,Nizamabad,4.0,GEN,Telangana,Kalvakuntla Kavitha,Telangana Rashtra Samithi,1496193.0,1033924.0,69.1,167184.0,16.2
+388,389,North East Delhi,2.0,GEN,Delhi,Manoj Tiwari,Bharatiya Janta Party,1957707.0,1317338.0,67.3,144084.0,10.9
+389,390,North Goa,1.0,GEN,Goa,Shripad Yesso Naik,Bharatiya Janta Party,515441.0,406631.0,78.9,105599.0,26.0
+390,391,North West Delhi,5.0,SC,Delhi,Udit Raj,Bharatiya Janta Party,2194425.0,1356036.0,61.8,106802.0,7.9
+391,392,Nowgong,10.0,GEN,Assam,Rajen Gohain,Bharatiya Janta Party,1523881.0,1230074.0,80.7,143559.0,11.7
+392,393,Ongole,18.0,GEN,Andhra Pradesh,Y.V.Subba Reddy,Yuvajana Sramika Rythu Congress Party,1470483.0,1208225.0,82.2,15658.0,1.3
+393,394,Osmanabad,40.0,GEN,Maharashtra,Gaikwad Ravindra Vishwanath,Shiv Sena,1726793.0,1118151.0,64.8,234325.0,21.0
+394,395,Outer Manipur,2.0,ST,Manipur,Thangso Baite,Indian National Congress,918966.0,771766.0,84.0,15637.0,2.0
+395,396,Palakkad,8.0,GEN,Kerala,M B Rajesh,Communist Party Of India (Marxist),1208758.0,910322.0,75.3,105300.0,11.6
+396,397,Palamau,13.0,SC,Jharkhand,Vishnu Dayal Ram,Bharatiya Janta Party,1645957.0,977323.0,59.4,263942.0,27.0
+397,398,Palghar,22.0,ST,Maharashtra,Adv. Chintaman Navasha Wanga,Bharatiya Janta Party,1578077.0,992618.0,62.9,239520.0,24.1
+398,399,Pali,15.0,GEN,Rajasthan,P P Choudhary,Bharatiya Janta Party,1893030.0,1095587.0,57.9,399039.0,36.4
+399,400,Panchmahal,18.0,GEN,Gujarat,Chauhan Prabhatsinh Pratapsinh,Bharatiya Janta Party,1576667.0,933461.0,59.2,170596.0,18.3
+400,401,Parbhani,17.0,GEN,Maharashtra,Jadhav Sanjay (BANDU) HARIBHAU,Shiv Sena,1803792.0,1162233.0,64.4,127155.0,10.9
+401,402,Paschim Champaran,2.0,GEN,Bihar,Dr. Sanjay Jaiswal,Bharatiya Janta Party,1413073.0,854800.0,60.5,110254.0,12.9
+402,403,Pataliputra,31.0,GEN,Bihar,Ram Kripal Yadav,Bharatiya Janta Party,1736074.0,978649.0,56.4,40322.0,4.1
+403,404,Patan,3.0,GEN,Gujarat,Liladharbhai Khodaji Vaghela,Bharatiya Janta Party,1628641.0,955799.0,58.7,138719.0,14.5
+404,405,Pathanamthitta,17.0,GEN,Kerala,Anto Antony,Indian National Congress,1323906.0,869452.0,65.7,56191.0,6.5
+405,406,Patiala,13.0,GEN,Punjab,Dr. Dharam Vira Gandhi,Aam Aadmi Party,1580273.0,1120933.0,70.9,20942.0,1.9
+406,407,Patna Sahib,30.0,GEN,Bihar,Shatrughana Sinha,Bharatiya Janta Party,1946249.0,882262.0,45.3,265805.0,30.1
+407,408,Peddapalli,2.0,SC,Telangana,Balka Suman,Telangana Rashtra Samithi,1425361.0,1022184.0,71.7,291158.0,28.5
+408,409,Perambalur,25.0,GEN,Tamil Nadu,"Marutharajaa, R.P.",All India Anna Dravida Munnetra Kazhagam,1285434.0,1030826.0,80.2,213048.0,20.7
+409,410,Phulpur,51.0,GEN,Uttar Pradesh,Keshav Prasad Maurya,Bharatiya Janta Party,1913274.0,960341.0,50.2,308308.0,32.1
+410,411,Pilibhit,26.0,GEN,Uttar Pradesh,Maneka Sanjay Gandhi,Bharatiya Janta Party,1671151.0,1050547.0,62.9,307052.0,29.2
+411,412,Pollachi,21.0,GEN,Tamil Nadu,Mahendran.C,All India Anna Dravida Munnetra Kazhagam,1381505.0,1012667.0,73.3,140974.0,13.9
+412,413,Pondicherry,1.0,GEN,Puducherry,R. Radhakrishnan,All India N.R. Congress,901357.0,740017.0,82.1,60854.0,8.2
+413,414,Ponnani,7.0,GEN,Kerala,E. T. Mohammed Basheer,Indian Union Muslim League,1180789.0,871592.0,73.8,25410.0,2.9
+414,415,Porbandar,11.0,GEN,Gujarat,Radadiya Vithalbhai Hansrajbhai,Bharatiya Janta Party,1539223.0,809433.0,52.6,267971.0,33.1
+415,416,Pratapgarh,39.0,GEN,Uttar Pradesh,Kuwar Harivansh Singh,Apna Dal,1716625.0,894456.0,52.1,168222.0,18.8
+416,417,Pune,34.0,GEN,Maharashtra,Anil Shirole,Bharatiya Janta Party,1835836.0,993274.0,54.1,315769.0,31.8
+417,418,Puri,17.0,GEN,Orissa,Pinaki Misra,Biju Janata Dal,1404581.0,1039389.0,74.0,263361.0,25.3
+418,419,Purnia,12.0,GEN,Bihar,Santosh Kumar,Janata Dal (United),1582967.0,1017732.0,64.3,116669.0,11.5
+419,420,Purulia,35.0,GEN,West Bengal,Dr. Mriganka Mahato,All India Trinamool Congress,1471933.0,1204675.0,81.8,153877.0,12.8
+420,421,Purvi Champaran,3.0,GEN,Bihar,Radha Mohan Singh,Bharatiya Janta Party,1452963.0,822671.0,56.6,192163.0,23.4
+421,422,Rae Bareli,36.0,GEN,Uttar Pradesh,Sonia Gandhi,Indian National Congress,1594954.0,825136.0,51.7,352713.0,42.7
+422,423,Raichur,6.0,ST,Karnataka,B.V.Nayak,Indian National Congress,1661606.0,968889.0,58.3,1499.0,0.2
+423,424,Raigad,32.0,GEN,Maharashtra,Anant Geete,Shiv Sena,1532781.0,987766.0,64.4,2110.0,0.2
+424,425,Raiganj,5.0,GEN,West Bengal,Md. Salim,Communist Party Of India (Marxist),1387526.0,1108193.0,79.9,1634.0,0.1
+425,426,Raigarh,2.0,ST,Chhattisgarh,Vishnu Deo Sai,Bharatiya Janta Party,1605824.0,1246186.0,77.6,216750.0,17.4
+426,427,Raipur,8.0,GEN,Chhattisgarh,Ramesh Bais,Bharatiya Janta Party,1904230.0,1250845.0,65.7,171646.0,13.7
+427,428,Rajahmundry,19.0,GEN,Andhra Pradesh,Murali Mohan Maganti,Telugu Desam,1421288.0,1154381.0,81.2,167434.0,14.5
+428,429,Rajampet,20.0,GEN,Andhra Pradesh,P.V.Midhun Reddy,Yuvajana Sramika Rythu Congress Party,1487498.0,1158317.0,77.9,174762.0,15.1
+429,430,Rajgarh,20.0,GEN,Madhya Pradesh,Rodmal Nagar,Bharatiya Janta Party,1578748.0,1010724.0,64.0,228737.0,22.6
+430,431,Rajkot,10.0,GEN,Gujarat,Kundariya Mohanbhai Kalyanjibhai,Bharatiya Janta Party,1655717.0,1057069.0,63.8,246428.0,23.3
+431,432,Rajmahal,1.0,ST,Jharkhand,Vijay Kumar Hansdak,Jharkhand Mukti Morcha,1353172.0,951563.0,70.3,41337.0,4.3
+432,433,Rajnandgaon,6.0,GEN,Chhattisgarh,Abhishek Singh,Bharatiya Janta Party,1588095.0,1178296.0,74.2,235911.0,20.0
+433,434,Rajsamand,22.0,GEN,Rajasthan,Hariom Singh Rathore,Bharatiya Janta Party,1699401.0,982119.0,57.8,395705.0,40.3
+434,435,Ramanathapuram,35.0,GEN,Tamil Nadu,Anwhar Raajhaa.A,All India Anna Dravida Munnetra Kazhagam,1455891.0,1001048.0,68.8,119324.0,11.9
+435,436,Rampur,7.0,GEN,Uttar Pradesh,Dr. Nepal Singh,Bharatiya Janta Party,1616984.0,956389.0,59.2,23435.0,2.5
+436,437,Ramtek,9.0,SC,Maharashtra,Krupal Balaji Tumane,Shiv Sena,1677245.0,1050316.0,62.6,175791.0,16.7
+437,438,Ranaghat,13.0,SC,West Bengal,Tapas Mandal,All India Trinamool Congress,1602849.0,1353196.0,84.4,201767.0,14.9
+438,439,Ranchi,8.0,GEN,Jharkhand,Ram Tahal Choudhary,Bharatiya Janta Party,1648464.0,1049783.0,63.7,199303.0,19.0
+439,440,Ratlam,24.0,ST,Madhya Pradesh,Dileepsingh Bhuria,Bharatiya Janta Party,1702648.0,1082681.0,63.6,108447.0,10.0
+440,441,Ratnagiri - Sindhudurg,46.0,GEN,Maharashtra,Vinayak Bhaurao Raut,Shiv Sena,1367361.0,896256.0,65.6,150051.0,16.7
+441,442,Raver,4.0,GEN,Maharashtra,Khadase Raksha Nikhil,Bharatiya Janta Party,1593370.0,1009213.0,63.3,318068.0,31.5
+442,443,Rewa,10.0,GEN,Madhya Pradesh,Janardan Mishra,Bharatiya Janta Party,1544719.0,830002.0,53.7,168726.0,20.3
+443,444,Robertsganj,80.0,SC,Uttar Pradesh,Chhotelal,Bharatiya Janta Party,1639561.0,885873.0,54.0,190486.0,21.5
+444,445,Rohtak,7.0,GEN,Haryana,Deepender Singh Hooda,Indian National Congress,1567504.0,1044331.0,66.6,170627.0,16.3
+445,446,Sabarkantha,5.0,GEN,Gujarat,Rathod Dipsinh Shankarsinh,Bharatiya Janta Party,1615840.0,1094002.0,67.7,84455.0,7.7
+446,447,Sagar,5.0,GEN,Madhya Pradesh,Laxmi Narayan Yadav,Bharatiya Janta Party,1520184.0,891929.0,58.7,120737.0,13.5
+447,448,Saharanpur,1.0,GEN,Uttar Pradesh,Raghav Lakhanpal,Bharatiya Janta Party,1608833.0,1194308.0,74.2,65090.0,5.5
+448,449,Salem,15.0,GEN,Tamil Nadu,Pannerselvam.V,All India Anna Dravida Munnetra Kazhagam,1498350.0,1150296.0,76.8,267610.0,23.3
+449,450,Salempur,71.0,GEN,Uttar Pradesh,Ravindra Kushawaha,Bharatiya Janta Party,1661737.0,854749.0,51.4,232342.0,27.2
+450,451,Samastipur,23.0,SC,Bihar,Ram Chandra Paswan,Lok Jan Shakti Party,1503005.0,863199.0,57.4,6872.0,0.8
+451,452,Sambalpur,3.0,GEN,Orissa,Nagendra Kumar Pradhan,Biju Janata Dal,1297098.0,984309.0,75.9,30576.0,3.1
+452,453,Sambhal,8.0,GEN,Uttar Pradesh,Satyapal Singh,Bharatiya Janta Party,1693245.0,1057002.0,62.4,5174.0,0.5
+453,454,Sangli,44.0,GEN,Maharashtra,Sanjaykaka Patil,Bharatiya Janta Party,1649107.0,1046659.0,63.5,239292.0,22.9
+454,455,Sangrur,12.0,GEN,Punjab,Bhagwant Mann,Aam Aadmi Party,1424743.0,1099467.0,77.2,211721.0,19.3
+455,456,Sant Kabir Nagar,62.0,GEN,Uttar Pradesh,Sharad Tripathi,Bharatiya Janta Party,1904327.0,1011649.0,53.1,97978.0,9.7
+456,457,Saran,20.0,GEN,Bihar,Rajiv Pratap Rudy,Bharatiya Janta Party,1538744.0,863254.0,56.1,40948.0,4.7
+457,458,Sarguja,1.0,ST,Chhattisgarh,Kamalbhan Singh Marabi,Bharatiya Janta Party,1523072.0,1187321.0,78.0,147236.0,12.4
+458,459,Sasaram,34.0,SC,Bihar,Chhedi Paswan,Bharatiya Janta Party,1607747.0,846788.0,52.7,63327.0,7.5
+459,460,Satara,45.0,GEN,Maharashtra,Shrimant Chh. Udayanraje Pratapsinha Bhonsale,Nationalist Congress Party,1719998.0,976681.0,56.8,366594.0,37.5
+460,461,Satna,9.0,GEN,Madhya Pradesh,Ganesh Singh,Bharatiya Janta Party,1458084.0,913444.0,62.7,8688.0,1.0
+461,462,Secundrabad,8.0,GEN,Telangana,Bandaru Dattatreya,Bharatiya Janta Party,1893647.0,1003769.0,53.0,254735.0,25.4
+462,463,Shahdol,12.0,ST,Madhya Pradesh,Dalpat Singh Paraste,Bharatiya Janta Party,1561321.0,968518.0,62.0,241301.0,24.9
+463,464,Shahjahanpur,27.0,SC,Uttar Pradesh,Krishna Raj,Bharatiya Janta Party,1979294.0,1129841.0,57.1,235529.0,20.8
+464,465,Sheohar,4.0,GEN,Bihar,Rama Devi,Bharatiya Janta Party,1489724.0,842894.0,56.6,136239.0,16.2
+465,466,Shillong,1.0,ST,Meghalaya,Vincent H. Pala,Indian National Congress,980740.0,619987.0,63.2,40379.0,6.5
+466,467,Shimla,4.0,SC,Himachal Pradesh,Virender Kashyap,Bharatiya Janta Party,1153363.0,737757.0,64.0,84187.0,11.4
+467,468,Shimoga,14.0,GEN,Karnataka,B. S. Yeddyurappa,Bharatiya Janta Party,1562241.0,1129008.0,72.3,363305.0,32.2
+468,469,Shirdi,38.0,SC,Maharashtra,Lokhande Sadashiv Kisan,Shiv Sena,1459712.0,932645.0,63.9,199922.0,21.4
+469,470,Shirur,36.0,GEN,Maharashtra,Adhalrao Shivaji Dattatrey,Shiv Sena,1824112.0,1089506.0,59.7,301814.0,27.7
+470,471,Shrawasti,58.0,GEN,Uttar Pradesh,Daddan Mishra,Bharatiya Janta Party,1788080.0,979638.0,54.8,85913.0,8.8
+471,472,Sidhi,11.0,GEN,Madhya Pradesh,Riti Pathak,Bharatiya Janta Party,1736050.0,989396.0,57.0,108046.0,10.9
+472,473,Sikar,5.0,GEN,Rajasthan,Sumedhanand Saraswati,Bharatiya Janta Party,1770424.0,1065750.0,60.2,239196.0,22.4
+473,474,Sikkim,1.0,GEN,Sikkim,Prem Das Rai,Sikkim Democratic Front,370611.0,308967.0,83.4,41742.0,13.5
+474,475,Silchar,2.0,GEN,Assam,Sushmita Dev,Indian National Congress,1060175.0,799830.0,75.4,35241.0,4.4
+475,476,Singhbhum,10.0,ST,Jharkhand,Laxman Giluwa,Bharatiya Janta Party,1152570.0,795286.0,69.0,87524.0,11.0
+476,477,Sirsa,3.0,SC,Haryana,Charanjeet Singh Rori,Indian National Lok Dal,1660557.0,1279105.0,77.0,115736.0,9.0
+477,478,Sitamarhi,5.0,GEN,Bihar,Ram Kumar Sharma,Rashtriya Lok Samta Party,1574914.0,900588.0,57.2,147965.0,16.4
+478,479,Sitapur,30.0,GEN,Uttar Pradesh,Rajesh Verma,Bharatiya Janta Party,1550263.0,1026972.0,66.3,51027.0,5.0
+479,480,Sivaganga,31.0,GEN,Tamil Nadu,Senthilnathan Pr,All India Anna Dravida Munnetra Kazhagam,1412373.0,1027036.0,72.7,229385.0,22.3
+480,481,Siwan,18.0,GEN,Bihar,Om Prakash Yadav,Bharatiya Janta Party,1563860.0,884021.0,56.5,113847.0,12.9
+481,482,Solapur,42.0,SC,Maharashtra,Sharad Bansode,Bharatiya Janta Party,1702755.0,951201.0,55.9,149674.0,15.7
+482,483,Sonipat,6.0,GEN,Haryana,Ramesh Chander,Bharatiya Janta Party,1417188.0,985637.0,69.6,77414.0,7.9
+483,484,South Delhi,7.0,GEN,Delhi,Ramesh Bidhuri,Bharatiya Janta Party,1752741.0,1102410.0,62.9,107000.0,9.7
+484,485,South Goa,2.0,GEN,Goa,Adv. Narendra Keshav Sawaikar,Bharatiya Janta Party,545336.0,410369.0,75.3,32330.0,7.9
+485,486,Srerampur,27.0,GEN,West Bengal,Kalyan Banerjee,All India Trinamool Congress,1624038.0,1290433.0,79.5,152526.0,11.8
+486,487,Srikakulam,21.0,GEN,Andhra Pradesh,Rammohan Naidu Kinjarapu,Telugu Desam,1413989.0,1051446.0,74.4,127572.0,12.1
+487,488,Srinagar,2.0,GEN,Jammu & Kashmir,Tariq Hameed Karra,Jammu & Kashmir Peoples Democratic Party,1205233.0,312212.0,25.9,42280.0,13.5
+488,489,Sriperumbudur,5.0,GEN,Tamil Nadu,"Ramachandran, K.N. Thiru",All India Anna Dravida Munnetra Kazhagam,1946503.0,1286647.0,66.1,102646.0,8.0
+489,490,Sultanpur,38.0,GEN,Uttar Pradesh,Feroze Varun Gandhi,Bharatiya Janta Party,1703698.0,964981.0,56.6,178902.0,18.5
+490,491,Sundargarh,2.0,ST,Orissa,Jual @ Juel Oram,Bharatiya Janta Party,1410532.0,1010711.0,71.7,18829.0,1.9
+491,492,Supaul,8.0,GEN,Bihar,Ranjeet Ranjan,Indian National Congress,1525592.0,970528.0,63.6,59672.0,6.1
+492,493,Surat,24.0,GEN,Gujarat,Darshana Vikram Jardosh,Bharatiya Janta Party,1484068.0,947922.0,63.9,533190.0,56.2
+493,494,Surendranagar,9.0,GEN,Gujarat,Fatepara Devajibhai Govindbhai,Bharatiya Janta Party,1656657.0,944677.0,57.0,202907.0,21.5
+494,495,Tamluk,30.0,GEN,West Bengal,Adhikari Suvendu,All India Trinamool Congress,1527273.0,1337684.0,87.6,246481.0,18.4
+495,496,Tehri Garhwal,1.0,GEN,Uttarakhand,Mala Rajya Laxmi Shah,Bharatiya Janta Party,1352845.0,776214.0,57.4,192503.0,24.8
+496,497,Tenkasi,37.0,SC,Tamil Nadu,Vasanthi.M,All India Anna Dravida Munnetra Kazhagam,1382081.0,1017938.0,73.7,161774.0,15.9
+497,498,Tezpur,9.0,GEN,Assam,Ram Prasad Sarmah,Bharatiya Janta Party,1259568.0,980688.0,77.9,86020.0,8.8
+498,499,Thane,25.0,GEN,Maharashtra,Vichare Rajan Baburao,Shiv Sena,2073442.0,1054189.0,50.8,281299.0,26.7
+499,500,Thanjavur,30.0,GEN,Tamil Nadu,Parasuraman.K,All India Anna Dravida Munnetra Kazhagam,1340050.0,1012258.0,75.5,144119.0,14.2
+500,501,Theni,33.0,GEN,Tamil Nadu,"Parthipan, R.",All India Anna Dravida Munnetra Kazhagam,1441302.0,1075583.0,74.6,314532.0,29.2
+501,502,Thiruvallur,1.0,SC,Tamil Nadu,Venugopal.P.(DR),All India Anna Dravida Munnetra Kazhagam,1702833.0,1254440.0,73.7,323430.0,25.8
+502,503,Thiruvananthapuram,20.0,GEN,Kerala,Dr. Shashi Tharoor,Indian National Congress,1272748.0,873439.0,68.6,15470.0,1.8
+503,504,Thoothukkudi,36.0,GEN,Tamil Nadu,Jeyasingh Thiyagaraj Natterjee.J,All India Anna Dravida Munnetra Kazhagam,1310597.0,916778.0,70.0,124002.0,13.5
+504,505,Thrissur,10.0,GEN,Kerala,C. N. Jayadevan,Communist Party Of India,1275288.0,920505.0,72.2,38227.0,4.2
+505,506,Tikamgarh,6.0,SC,Madhya Pradesh,Dr. Virendra Kumar,Bharatiya Janta Party,1529003.0,766321.0,50.1,208731.0,27.2
+506,507,Tiruchirappalli,24.0,GEN,Tamil Nadu,Kumar.P,All India Anna Dravida Munnetra Kazhagam,1387140.0,988250.0,71.2,150476.0,15.2
+507,508,Tirunelveli,38.0,GEN,Tamil Nadu,Prabakaran.K.R.P,All India Anna Dravida Munnetra Kazhagam,1420435.0,962330.0,67.8,126099.0,13.1
+508,509,Tirupati,22.0,SC,Andhra Pradesh,Varaprasad Rao Velagapalli,Yuvajana Sramika Rythu Congress Party,1574544.0,1213064.0,77.0,37425.0,3.1
+509,510,Tiruppur,18.0,GEN,Tamil Nadu,V.Sathyabama,All India Anna Dravida Munnetra Kazhagam,1375589.0,1050190.0,76.3,179315.0,17.1
+510,511,Tiruvannamalai,11.0,GEN,Tamil Nadu,Vanaroja R,All India Anna Dravida Munnetra Kazhagam,1352966.0,1067447.0,78.9,168606.0,15.8
+511,512,Tonk-Sawai Madhopur,12.0,GEN,Rajasthan,Sukhbir Singh Jaunapuria,Bharatiya Janta Party,1710775.0,1043040.0,61.0,135311.0,13.0
+512,513,Tripura East,2.0,ST,Tripura,Jitendra Choudhury,Communist Party Of India (Marxist),1140269.0,951110.0,83.4,484358.0,50.9
+513,514,Tripura West,1.0,GEN,Tripura,Sankar Prasad Datta,Communist Party Of India (Marxist),1248550.0,1072749.0,85.9,503486.0,46.9
+514,515,Tumkur,19.0,GEN,Karnataka,Muddahanumegowda.S.P.,Indian National Congress,1518518.0,1101484.0,72.5,74041.0,6.7
+515,516,Tura,2.0,ST,Meghalaya,Purno Agitok Sangma,National People's Party,586501.0,458071.0,78.1,39716.0,8.7
+516,517,Udaipur,19.0,ST,Rajasthan,Arjunlal Meena,Bharatiya Janta Party,1817940.0,1193202.0,65.6,236762.0,19.8
+517,518,Udhampur,5.0,GEN,Jammu & Kashmir,Dr. Jitendra Singh,Bharatiya Janta Party,1490244.0,1041758.0,69.9,60976.0,5.9
+518,519,Udupi Chikmagalur,15.0,GEN,Karnataka,Shobha Karandlaje,Bharatiya Janta Party,1387295.0,1034108.0,74.5,181643.0,17.6
+519,520,Ujiarpur,22.0,GEN,Bihar,Nityanand Rai,Bharatiya Janta Party,1428445.0,858920.0,60.1,60469.0,7.0
+520,521,Ujjain,22.0,SC,Madhya Pradesh,Prof. Chintamani Malviya,Bharatiya Janta Party,1525481.0,1016405.0,66.6,309663.0,30.5
+521,522,Uluberia,26.0,GEN,West Bengal,Sultan Ahmed,All India Trinamool Congress,1448632.0,1186027.0,81.9,201222.0,17.0
+522,523,Unnao,33.0,GEN,Uttar Pradesh,Swami Sachchidanand Hari Sakshi,Bharatiya Janta Party,2164392.0,1201603.0,55.5,310173.0,25.8
+523,524,Uttara Kannada,12.0,GEN,Karnataka,Anantkumar Hegde,Bharatiya Janta Party,1450599.0,1001038.0,69.0,140700.0,14.1
+524,525,Vadakara,3.0,GEN,Kerala,Mullappally Ramachandran,Indian National Congress,1182504.0,959342.0,81.1,3306.0,0.3
+525,526,Vadodara,20.0,GEN,Gujarat,Narendra Modi,Bharatiya Janta Party,1638321.0,1161577.0,70.9,570128.0,49.1
+526,527,Vaishali,16.0,GEN,Bihar,Rama Kishore Singh,Lok Jan Shakti Party,1587202.0,925937.0,58.3,99267.0,10.7
+527,528,Valmiki Nagar,1.0,GEN,Bihar,Satish Chandra Dubey,Bharatiya Janta Party,1456576.0,900114.0,61.8,117793.0,13.1
+528,529,Valsad,26.0,ST,Gujarat,Dr. K.C.Patel,Bharatiya Janta Party,1512061.0,1122203.0,74.2,208004.0,18.5
+529,530,Varanasi,77.0,GEN,Uttar Pradesh,Narendra Modi,Bharatiya Janta Party,1767486.0,1030685.0,58.3,371784.0,36.1
+530,531,Vellore,8.0,GEN,Tamil Nadu,"Senguttuvan, B.",All India Anna Dravida Munnetra Kazhagam,1312251.0,974770.0,74.3,59393.0,6.1
+531,532,Vidisha,18.0,GEN,Madhya Pradesh,Sushma Swaraj,Bharatiya Janta Party,1634370.0,1073473.0,65.7,410698.0,38.3
+532,533,Vijayawada,23.0,GEN,Andhra Pradesh,Kesineni Srinivas,Telugu Desam,1564513.0,1195075.0,76.4,74862.0,6.3
+533,534,Viluppuram,13.0,SC,Tamil Nadu,Rajendran S,All India Anna Dravida Munnetra Kazhagam,1387007.0,1067641.0,77.0,193367.0,18.1
+534,535,Virudhunagar,34.0,GEN,Tamil Nadu,Radhakrishnan T,All India Anna Dravida Munnetra Kazhagam,1350495.0,1010930.0,74.9,145551.0,14.4
+535,536,Visakhapatnam,24.0,GEN,Andhra Pradesh,Kambhampati Hari Babu,Bharatiya Janta Party,1723037.0,1163558.0,67.5,90488.0,7.8
+536,537,Vizianagaram,25.0,GEN,Andhra Pradesh,Ashok Gajapathi Raju Pusapati,Telugu Desam,1404127.0,1120316.0,79.8,106911.0,9.5
+537,538,Warangal,15.0,SC,Telangana,Kadiyam Srihari,Telangana Rashtra Samithi,1537781.0,1174631.0,76.4,392574.0,33.4
+538,539,Wardha,8.0,GEN,Maharashtra,Ramdas Chandrabhanji Tadas,Bharatiya Janta Party,1564553.0,1013445.0,64.8,215783.0,21.3
+539,540,Wayanad,4.0,GEN,Kerala,M I Shanavas,Indian National Congress,1249420.0,915006.0,73.2,20870.0,2.3
+540,541,West Delhi,6.0,GEN,Delhi,Parvesh Sahib Singh Verma,Bharatiya Janta Party,2039410.0,1347971.0,66.1,268586.0,19.9
+541,542,Yavatmal-Washim,14.0,GEN,Maharashtra,Gawali Bhavana Pundlikrao,Shiv Sena,1743498.0,1032949.0,59.3,93816.0,9.1
+542,543,Zahirabad,5.0,GEN,Telangana,B.B. Patil,Telangana Rashtra Samithi,1445246.0,1094806.0,75.8,144631.0,13.2
